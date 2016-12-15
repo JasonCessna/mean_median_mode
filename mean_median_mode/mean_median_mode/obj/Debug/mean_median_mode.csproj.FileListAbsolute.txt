@@ -1,0 +1,9 @@
+c:\users\duttles\documents\visual studio 2012\Projects\mean_median_mode\mean_median_mode\bin\Debug\mean_median_mode.exe.config
+C:\Users\Duttles\Documents\Visual Studio 2012\Projects\mean_median_mode\mean_median_mode\bin\Debug\mean_median_mode.exe
+C:\Users\Duttles\Documents\Visual Studio 2012\Projects\mean_median_mode\mean_median_mode\bin\Debug\mean_median_mode.pdb
+C:\Users\Duttles\Documents\Visual Studio 2012\Projects\mean_median_mode\mean_median_mode\obj\Debug\mean_median_mode.Properties.Resources.resources
+C:\Users\Duttles\Documents\Visual Studio 2012\Projects\mean_median_mode\mean_median_mode\obj\Debug\mean_median_mode.csproj.GenerateResource.Cache
+C:\Users\Duttles\Documents\Visual Studio 2012\Projects\mean_median_mode\mean_median_mode\obj\Debug\mean_median_mode.exe
+C:\Users\Duttles\Documents\Visual Studio 2012\Projects\mean_median_mode\mean_median_mode\obj\Debug\mean_median_mode.pdb
+C:\Users\Duttles\Documents\Visual Studio 2012\Projects\mean_median_mode\mean_median_mode\obj\Debug\mean_median_mode.csprojResolveAssemblyReference.cache
+C:\Users\Duttles\Documents\Visual Studio 2012\Projects\mean_median_mode\mean_median_mode\obj\Debug\mean_median_mode.main.resources
